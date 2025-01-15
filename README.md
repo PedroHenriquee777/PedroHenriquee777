@@ -100,7 +100,7 @@ Se interessou?! Me mande uma mensagem pelo meu [Email](phznff13@gmail.com)!
 <img 
       align="right" 
       alt="GitHub Stats" 
-      height="140px" 
+      height="120px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquee777&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
   <br/>
