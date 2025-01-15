@@ -98,7 +98,7 @@ Se interessou?! Me mande uma mensagem pelo meu [Email](phznff13@gmail.com)!
   />
 
 <img 
-      align="left" 
+      align="rigth" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquee777&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
