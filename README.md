@@ -93,7 +93,6 @@ Se interessou?! Me mande uma mensagem pelo meu [Email](phznff13@gmail.com)!
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-left: px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroHenriquee777&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
