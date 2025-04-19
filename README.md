@@ -143,17 +143,10 @@ Se interessou?! Me mande uma mensagem pelo meu [Email](phznff13@gmail.com)!
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=PedroHenriquee777&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
-      height="130" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquee777&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
   <br/>
