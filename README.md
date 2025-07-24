@@ -13,7 +13,7 @@ Se interessou?! Me mande uma mensagem pelo meu [Email](phznff13@gmail.com)!
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stacks e Tecnologias
 
 <img 
     align="left" 
@@ -40,7 +40,6 @@ Se interessou?! Me mande uma mensagem pelo meu [Email](phznff13@gmail.com)!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
 <img 
     align="left" 
     alt="Node.js" 
@@ -48,22 +47,6 @@ Se interessou?! Me mande uma mensagem pelo meu [Email](phznff13@gmail.com)!
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Fastify"
-    title="Fastify" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreeSQL"
-    title="PostgreeSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
 <img 
     align="left" 
