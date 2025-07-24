@@ -77,14 +77,6 @@ Me chamo Pedro Henrique, tenho 17 anos e sou natural do Ceará. Sou um estudante
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="PrismaORM" 
-    title="PrismaORM"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" 
-/>
 
 <img 
     align="left" 
@@ -111,6 +103,14 @@ Me chamo Pedro Henrique, tenho 17 anos e sou natural do Ceará. Sou um estudante
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <br/>
 <br/>
