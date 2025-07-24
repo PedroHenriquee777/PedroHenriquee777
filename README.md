@@ -8,7 +8,7 @@
 
 <br/>
 
-Me chamo Pedro Henrique, tenho 17 anos e sou natural do Ceará. Sou um estudante do 3º ano do Curso Técnico de Desenvolvimento de Sistemas na EEEP Manuel Abdias Evangelista. Tenho paixão por programação e estou em constante aprendizado para me tornar um desenvolvedor completo. Estou sempre buscando novos desafios para aprimorar minhas habilidades em linguagens como Python, JavaScript, HTML/CSS, Node.js e entre outras.. <br/> <br/>
+Me chamo Pedro Henrique, tenho 17 anos e sou natural do Ceará. Sou um estudante do 3º ano do Curso Técnico de Desenvolvimento de Sistemas na EEEP Manuel Abdias Evangelista. Tenho paixão por programação e busco constante aprendizado para me tornar um desenvolvedor completo. Estou sempre buscando novos desafios para aprimorar minhas habilidades em linguagens como Python, JavaScript, HTML/CSS, Node.js e entre outras.. <br/> <br/>
 
 ---
 
