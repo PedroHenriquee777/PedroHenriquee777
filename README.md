@@ -9,7 +9,7 @@
 <p>🎓 Technical Degree in Systems Development - EEEP Manuel Abdias Evangelista</p>
 <p>🎓 Computer Science Undergraduate - Centro Universitário Internacional (UNINTER)</p>
 
-<p>💻 Focused on web and mobile development with Node.js, Next.js, TypeScript, React Native, and Swift</p>
+<p>💻 Focused on web and mobile full stack development with React, Nextjs, Angular, Node.js, NestJS, TypeScript, React Native, and Swift</p>
 
 <p>🚀 Always improving and building real-world solutions</p>
 
