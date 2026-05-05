@@ -15,6 +15,7 @@
 
 <p>📫 Contact: <a href="mailto:phznff13@gmail.com">phznff13@gmail.com</a></p>
 
+<p align="center">My Skills</p>
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,react,nextjs,angular,swift,postgres,mysql,dynamodb,prisma,prometheus,git,python,django,fastapi,aws,docker)](https://skillicons.dev)
